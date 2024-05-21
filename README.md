@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Daniela</h1>
 <h3 align="center">A passionate web developer from Argentina living and studying in Tel Aviv</h3>
 
-- 🔭 I’m currently working on [myBooks web app](https://github.com/danielabrailo/myBooks)
+- 🌱 I’m currently learning **Vue and C++**
 
-- 🌱 I’m currently learning **MERN**
+- 👨‍💻 Most of my projects are available at [https://danielabrailo.vercel.app/](https://danielabrailo.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://danielabrailo.vercel.app/](https://danielabrailo.vercel.app/)
-
-- 💬 Ask me about **React, Python and Flask**
+- 💬 Ask me about **Javascript, Node.js, React, Python and Flask**
 
 - 📫 How to reach me **dbrailo@gmail.com**
 
