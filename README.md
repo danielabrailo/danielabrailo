@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Daniela</h1>
 <h3 align="center">A passionate web developer from Argentina living and studying in Tel Aviv</h3>
 
-- 🌱 I’m currently learning **Vue and C++**
+- 🌱 I’m currently learning **C++**
 
 - 👨‍💻 Most of my projects are available at [https://danielabrailo.vercel.app/](https://danielabrailo.vercel.app/)
 
-- 💬 Ask me about **Javascript, Node.js, React, Python and Flask**
+- 💬 Ask me about **Algorithms, Javascript, Node.js, Vue, React, Python and Flask**
 
 - 📫 How to reach me **dbrailo@gmail.com**
-
-- ⚡ Fun fact **I have lived in 3 (very) different corners of the world (Argentina, China and Israel)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
