@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 Most of my projects are available at [https://danielabrailo.vercel.app/](https://danielabrailo.vercel.app/)
+- 👨‍💻 Most of my projects are available at [https://daniela-b.vercel.app/](https://daniela-b.vercel.app/)
 
 - 💬 Ask me about **Algorithms, Javascript, Node.js, Vue, React, Python and Flask**
 
