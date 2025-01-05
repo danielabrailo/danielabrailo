@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniela</h1>
-<h3 align="center">A passionate web developer from Argentina living and studying in Tel Aviv</h3>
+<h3 align="center">A passionate web developer from Argentina living in Toronto</h3>
 
 - 🌱 I’m currently learning **C++**
 
